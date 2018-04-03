@@ -7,6 +7,9 @@
 [https://sourcethemes.com/academic/docs/deployment/](https://sourcethemes.com/academic/docs/deployment/)
 
 ## 内容上传与维护
+
+[http://www.cs.sdu.edu.cn/zh/~llu](http://www.cs.sdu.edu.cn/zh/~llu)
+
 [http://vr.sdu.edu.cn/~lulin/](http://vr.sdu.edu.cn/~lulin/)
 
 [https://sourcethemes.com/academic/docs/](https://sourcethemes.com/academic/docs/)
